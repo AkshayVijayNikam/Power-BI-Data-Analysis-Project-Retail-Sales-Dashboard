@@ -48,16 +48,16 @@ The Power BI report transforms structured sales data into an intuitive, multi-pa
 
 ## 🖼 Sample Dashboards
 
-> ⚠️ Replace these image links with actual screenshots after exporting visuals from Power BI.
+
 
 ### 📌 Overview Dashboard
-![Overview Dashboard](images/dashboard-overview.png)
+https://github.com/AkshayVijayNikam/Power-BI-Data-Analysis-Project-Retail-Sales-Dashboard/blob/main/Dashboard.jpg
 
 ### 🌍 Regional Performance
-![Regional Performance](images/regional-performance.png)
+https://github.com/AkshayVijayNikam/Power-BI-Data-Analysis-Project-Retail-Sales-Dashboard/blob/main/Regional%20Performance.jpg
 
 ### 📦 Product Insights
-![Product Insights](images/product-insights.png)
+https://github.com/AkshayVijayNikam/Power-BI-Data-Analysis-Project-Retail-Sales-Dashboard/blob/main/Product%20Insight.jpg
 
 ---
 
