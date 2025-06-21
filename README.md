@@ -70,5 +70,10 @@ https://github.com/AkshayVijayNikam/Power-BI-Data-Analysis-Project-Retail-Sales-
 
 ---
 
-## 📁 Project Structure
+## 👨‍💼 Author
+
+**Akshay Nikam**  
+📧 [Email](#akshay.nikambiz@gmail.com) • 💼 [LinkedIn](#https://www.linkedin.com/in/akshay-nikam-2b274a5b/) • 🖥️ [Portfolio](#)
+
+---
 
